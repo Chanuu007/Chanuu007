@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chanuu007&label=Profile%20views&color=0e75b6&style=flat" alt="chanuu007" /> </p>
 <div align="center">
-- 🌱 I’m currently learning **php with mysql**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **chanukawanigasekara007@gmail.com**
 </div>
