@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chanuka Wanigasekara</h1>
-<h3 align="center">An undergraduate IT student</h3>
-<h3 align="center">Currently an Associate Software Engineer</h3>
+<h3 align="center">An Associate Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chanuu007&label=Profile%20views&color=0e75b6&style=flat" alt="chanuu007" /> </p>
 <div align="center">
-- 🌱 I’m currently learning **React**
+- 🌱 I am currently engaged in projects utilizing Laravel and CodeIgniter frameworks, focusing on developing robust and efficient solutions. 
 
 - 📫 How to reach me **chanukawanigasekara007@gmail.com**
 </div>
